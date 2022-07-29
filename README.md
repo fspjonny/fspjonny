@@ -8,7 +8,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fspjonny&layout=compact&langs_count=16&theme=dracula">
 </div>
 
-### Minha ferramentas atuais 🛠️
+### Minhas ferramentas atuais 🛠️
 <div style="display: inline-block"></br>
 <img align="center" height="40" width="40" src="https://i.imgur.com/iuSOeQg.png" alt="Python">
 <img align="center" height="40" width="40" src="https://i.imgur.com/Qysv9o3.jpg" alt="Django">
