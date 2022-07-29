@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Fábio Pedro 👋
 
-Here are some ideas to get you started:
-
 - 🔭 Eu atualmente trabalho com Python para Web
 - 🌱 Eu atualmente estou estudando Flutter para Mobile e Web
 
