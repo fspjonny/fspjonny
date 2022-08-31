@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Fábio Pedro 👋🏻
 
 - 💼 Eu atualmente trabalho com Python para Web
-- 🌱 Eu atualmente estou estudando Flutter para Mobile(em breve projetos prontos)
+- 🌱 Eu atualmente estou estudando sobre API's
 
 ### Minhas métricas atuais 📏
 <div align="center">
