@@ -8,6 +8,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fspjonny&layout=compact&theme=radical)](https://github.com/fspjonny/github-readme-stats)
 
 ### Minhas ferramentas atuais 🛠️
-<div align="center" style="display: inline-block"></br>
-[![My Skills](https://skillicons.dev/icons?i=py,django,flask,fastapi,docker,bootstrap,tailwind,css,html,git&theme=dark)](https://skillicons.dev)
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,docker,bootstrap,tailwind,css,html,git&theme=dark"/>
 </div>
