@@ -3,6 +3,8 @@
 - 💼 Eu atualmente trabalho com Python para Web
 - 🌱 Eu atualmente estou estudando JavaScript
 
+[![Fábio GitHub stats](https://github-readme-stats.vercel.app/api?username=fspjonny)](https://github.com/fspjonny/github-readme-stats)
+
 ### Minhas ferramentas atuais 🛠️
 <div align="center" style="display: inline-block"></br>
 <img padding="1rem" height="40" width="40" src="https://i.imgur.com/iuSOeQg.png" alt="Python">&nbsp;&nbsp;
