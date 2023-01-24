@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Fábio Pedro 👋🏻
 
 - 💼 Eu atualmente trabalho com Python para Web
-- 🌱 Eu atualmente estou estudando sobre API's
+- 🌱 Eu atualmente estou estudando JavaScript
 
 ### Minhas ferramentas atuais 🛠️
 <div align="center" style="display: inline-block"></br>
