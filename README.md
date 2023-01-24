@@ -9,7 +9,7 @@
 
 ### Minhas ferramentas atuais 🛠️
 <div align="center" style="display: inline-block"></br>
-<img padding="1rem" height="40" width="40" src="https://i.imgur.com/iuSOeQg.png" alt="Python">&nbsp;&nbsp;
+<img padding="1rem" height="40" width="40" src="https://icons8.com.br/icon/l75OEUJkPAk4/python" alt="Python">&nbsp;&nbsp;
 <img height="40" width="40" src="https://i.imgur.com/Qysv9o3.jpg" alt="Django">&nbsp;&nbsp;
 <img height="40" width="60" src="https://i.imgur.com/wBSggAf.png" alt="Django Rest">&nbsp;&nbsp;
 <img height="40" width="40" src="https://i.imgur.com/XQb0lGx.png" alt="FastAPI">&nbsp;&nbsp;
