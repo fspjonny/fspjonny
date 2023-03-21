@@ -28,7 +28,7 @@
  <img src="https://skillicons.dev/icons?i=gulp,webpack&theme=dark&perline=8"/>
 </div>
 
-#### Estrutura e Framwork Web:
+#### Frameworks Web de estruturação e estilo:
 <div align="left">
  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&theme=dark&perline=8"/>
 </div>
