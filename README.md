@@ -20,7 +20,7 @@
 
 #### Frameworks JavaScript:
 <div align="left">
- <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,vue,angular&theme=dark&perline=8"/>
+ <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,vue&theme=dark&perline=8"/>
 </div>
 
 #### Farramentas JavaScript:
